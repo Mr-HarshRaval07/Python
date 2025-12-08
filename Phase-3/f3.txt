@@ -1,3 +1,0 @@
-This is file 1 
- line 2 in file 1This is file 2 
- line 2 in file 2
