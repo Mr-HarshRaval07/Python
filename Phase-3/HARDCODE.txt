@@ -1,0 +1,10 @@
+harsh 700
+virat 900
+dhoni 500
+sachin 1000
+rohit 800
+bumrah 300
+karan 700
+gill 600
+jaiswal 600
+hardik 650
